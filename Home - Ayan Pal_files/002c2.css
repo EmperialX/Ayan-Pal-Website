@@ -712,7 +712,7 @@ caption {
 }
 thead {
   vertical-align: bottom;
-  white-space: nowrap;
+  white-space:  ;
 }
 th {
   font-weight: 700;
@@ -935,7 +935,7 @@ button.toggle {
 .search-form {
   align-items: stretch;
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap:  ;
   margin: 0 0 -0.8rem -0.8rem;
 }
 .search-form .search-field,
@@ -1130,7 +1130,7 @@ body:not(.enable-search-modal) .site-logo img {
   position: absolute;
   top: calc(100% + 0.5rem);
   width: auto;
-  white-space: nowrap;
+  white-space:  ;
   word-break: break-all;
 }
 .overlay-header .toggle-text {
@@ -1924,7 +1924,7 @@ h2.entry-title {
 .post-meta .meta-wrapper {
   align-items: center;
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap:  ;
 }
 .post-meta .meta-icon {
   flex-shrink: 0;
@@ -3062,7 +3062,7 @@ div.comment:first-of-type {
   font-weight: 600;
   letter-spacing: -0.0277em;
   margin: 0.5rem 0 0 0;
-  white-space: nowrap;
+  white-space:  ;
 }
 .comment-reply-title small a {
   text-decoration: none;
@@ -3316,7 +3316,7 @@ div.comment:first-of-type {
   font-weight: 700;
   margin-right: 0.5rem;
   text-decoration: none;
-  white-space: nowrap;
+  white-space:  ;
 }
 .widget_tag_cloud a:focus,
 .widget_tag_cloud a:hover {
@@ -4361,7 +4361,7 @@ a.to-the-top > * {
   }
   .header-toggles:only-child .toggle-inner {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap:  ;
     align-items: center;
   }
   .header-toggles:only-child .toggle-inner .svg-icon {

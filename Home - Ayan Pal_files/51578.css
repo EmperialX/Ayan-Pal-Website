@@ -18235,11 +18235,11 @@ button.swiper-pagination-bullet {
   --e-global-color-424847a6: #fff;
   --e-global-typography-primary-font-family: "Galien Light Italic";
   --e-global-typography-primary-font-weight: 500;
-  --e-global-typography-secondary-font-family: "Roboto Slab";
+  --e-global-typography-secondary-font-family: "Galien Light Italic";
   --e-global-typography-secondary-font-weight: 400;
-  --e-global-typography-text-font-family: "Roboto";
+  --e-global-typography-text-font-family: "Galien Light Italic";
   --e-global-typography-text-font-weight: 400;
-  --e-global-typography-accent-font-family: "Roboto";
+  --e-global-typography-accent-font-family: "Galien Light Italic";
   --e-global-typography-accent-font-weight: 500;
 }
 .elementor-kit-8 button,
@@ -29269,7 +29269,7 @@ ol.elementor-toc__list-wrapper .elementor-toc__list-item-text-wrapper:before {
 .elementor-32
   .elementor-element.elementor-element-3126f0d
   > .elementor-widget-container {
-  margin: -21% 0% 0% 1%;
+  margin: -31% 0% 0% 11%;
   padding: 0% 3% 4% 32%;
 }
 .elementor-32
@@ -29444,7 +29444,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-075e589 {
   font-size: 18px;
   font-weight: 300;
   z-index: 5;
-  top: 459px;
+  top: 389px;
 }
 .elementor-32
   .elementor-element.elementor-element-45edfe8
@@ -29595,7 +29595,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-45edfe8 {
 .elementor-32 .elementor-element.elementor-element-46482ac {
   text-align: left;
   z-index: 10;
-  top: 26%;
+  top: 46%;
 }
 .elementor-32
   .elementor-element.elementor-element-46482ac
@@ -29613,10 +29613,10 @@ body.rtl .elementor-32 .elementor-element.elementor-element-45edfe8 {
   padding: 0px 0px 0px 0px;
 }
 body:not(.rtl) .elementor-32 .elementor-element.elementor-element-46482ac {
-  left: 44.962%;
+  left: 31.962%;
 }
 body.rtl .elementor-32 .elementor-element.elementor-element-46482ac {
-  right: 44.962%;
+  right: 31.962%;
 }
 .elementor-32
   .elementor-element.elementor-element-915c984
@@ -29636,7 +29636,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-46482ac {
 .elementor-32
   .elementor-element.elementor-element-66b1d14
   > .elementor-widget-container {
-  margin: 18% 0% 77% -50%;
+  margin: 18% 0% 67% 10%;
 }
 .elementor-32 .elementor-element.elementor-element-7476719 {
   text-align: center;
@@ -29646,7 +29646,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-46482ac {
   .elementor-element.elementor-element-7476719
   .elementor-image
   img {
-  width: 375px;
+  width: 415px;
 }
 .elementor-32
   .elementor-element.elementor-element-7476719
@@ -29680,7 +29680,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-46482ac {
 }
 .elementor-32 .elementor-element.elementor-element-5ac6665 .elementor-divider {
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 .elementor-32 .elementor-element.elementor-element-a119b94 {
   --divider-border-style: solid;
@@ -29705,7 +29705,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-46482ac {
 .elementor-32
   .elementor-element.elementor-element-6701ec8
   > .elementor-widget-container {
-  margin: 21% 0% 0% 0%;
+  margin: 1% 10% 0% 15%;
   padding: 0% 0% 0% 0%;
 }
 .elementor-32
@@ -29815,7 +29815,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-8ac2b76 {
 }
 .elementor-32 .elementor-element.elementor-element-9446209 {
   text-align: left;
-  z-index: 10;
+  z-index: 110;
   top: 0.009%;
 }
 .elementor-32
@@ -31059,7 +31059,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-769029e {
   .elementor-32
     .elementor-element.elementor-element-6701ec8
     > .elementor-widget-container {
-    margin: -170px 0px 0px 0px;
+    margin: 170px 0px 0px 0px;
     padding: 0px 20px 0px 20px;
   }
   .elementor-32
@@ -31689,7 +31689,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-769029e {
   .elementor-32
     .elementor-element.elementor-element-6701ec8
     > .elementor-widget-container {
-    margin: -30px 0px 0px 0px;
+    margin: 30px 0px 0px 0px;
   }
   body:not(.rtl) .elementor-32 .elementor-element.elementor-element-0743242 {
     left: -182px;
@@ -31988,7 +31988,7 @@ body.rtl .elementor-32 .elementor-element.elementor-element-769029e {
   .elementor-32
     .elementor-element.elementor-element-c4f32df
     > .elementor-widget-container {
-    margin: -170px 0px 0px -197px;
+    margin: -70px 0px 0px -97px;
   }
   .elementor-32
     .elementor-element.elementor-element-2cd8026
